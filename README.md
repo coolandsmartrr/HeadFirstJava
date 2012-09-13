@@ -15,7 +15,7 @@ I will use:
 * BlueJ
 	* a simplified IDE, or whatever you call it, I'm not sure
 * Terminal
-	* I'll try replace the Finder with this as much as I can for file management.
+	* I'll try replace the Finder with this as much as I can for file management.  
 	I guess I'll use lots of simple bash commands, such as `ls`, `mkdir`, `cd` and stuff like that. Zed Shaw has a [nice introduction](http://www.learncodethehardway.org/) to bash commands.) Of course, I'll be using Git as well, which I learned from [GitImmersion](http://www.gitimmersion.com/) and GitHub's quick tutorials.
 
 ###Computer Specs
