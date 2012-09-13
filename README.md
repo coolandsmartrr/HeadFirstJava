@@ -21,3 +21,8 @@ I will use:
 ###Computer Specs
 
 I have a MacBook Pro 15 inch. But to increase my prductivity, I'll try to get a second display as well. Avatron Software's [Air Display](http://avatron.com/) seems like a nice way to turn my parent's older MBP into a more practical use.
+
+Miscellaneous
+=============
+
+Follow me on Twitter! [@coolandsmartrr](http://www.twitter.com/coolandsmartrr)
